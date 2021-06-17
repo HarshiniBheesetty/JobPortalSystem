@@ -1,0 +1,266 @@
+[
+  {
+    "DOB": "02/11/1992",
+    "domain": "software",
+    "email": "harshini@gmail.com",
+    "activelySeeking":"no",
+    "first name": "Harshini",
+    "job status": " employed",
+    "last name": "Bheesetty",
+    "phone": "+91 9898989898",
+    "gender" : "female",
+    "country": "India",
+    "company":"Google",
+    "city" : "Hyderabad",
+    "skillShare":{
+    	"interested":["German","Python"],
+    	"offering":["English","JavaScript"]
+    },
+    "cv":{
+    	"jobPosition":"Front-end developer",
+    	"skills":["JavaScript","Typescript","HTML"]
+    },
+    "jobsApplied":["60c7d779066767239be146eb","60c7d779066767239be146e7"],
+    "friends":["60c7d2a4066767239be146db"] 
+   },
+   {
+    "DOB": "03/12/1992",
+    "domain": "software",
+    "email": "Anusha@gmail.com",
+    "activelySeeking":"yes",
+    "first name": "Anusha",
+    "job status": " employed",
+    "last name": "Bheesetty",
+    "phone": "+91 9138989898",
+    "gender" : "female",
+    "country": "India",
+    "company":"NTT data",
+    "city" : "Vizag",
+    "skillShare":{
+    	"interested":["German","Python"],
+    	"offering":["English","JavaScript"]
+    },
+    "cv":{
+    	"jobPosition":"Front-end developer",
+    	"skills":["JavaScript","Typescript","HTML"]
+    },
+    "jobsApplied":["60c7d779066767239be146eb","60c7d779066767239be146e7"],
+    "friends":["60c7d2a4066767239be146e4"] 
+   },
+   {
+    "DOB": "03/12/1990",
+    "domain": "software",
+    "email": "Kinnera@gmail.com",
+    "activelySeeking":"yes",
+    "first name": "Kinnera",
+    "job status": " employed",
+    "last name": "Patil",
+    "phone": "+91 9160989898",
+    "gender" : "female",
+    "country": "India",
+    "company":"Chaitanya Ltd",
+    "city" : "Bangalore",
+    "skillShare":{
+    	"interested":["German","Python"],
+    	"offering":["English","JavaScript"]
+    },
+    "cv":{
+    	"jobPosition":"Front-end developer",
+    	"skills":["JavaScript","Typescript","HTML"]
+    },
+    "jobsApplied":["60c7d779066767239be146eb","60c7d779066767239be146e7"],
+    "friends":["60c7d2a4066767239be146e4"] 
+   },
+   {
+    "DOB": "06/12/1980",
+    "domain": "software",
+    "email": "Krishna@gmail.com",
+    "activelySeeking":"yes",
+    "first name": "Krishna",
+    "job status": " employed",
+    "last name": "Patil",
+    "phone": "+91 9160981890",
+    "gender" : "male",
+    "country": "India",
+    "company":"DLF Constructions",
+    "city" : "Chennai",
+    "skillShare":{
+    	"interested":["German","Python"],
+    	"offering":["English","JavaScript"]
+    },
+    "cv":{
+    	"jobPosition":"Front-end developer",
+    	"skills":["JavaScript","Typescript","HTML"]
+    },
+   "jobsApplied":["60c7d779066767239be146eb","60c7d779066767239be146e7"],
+    "friends":["60c7d2a4066767239be146e4"]  
+   },
+   {
+    "DOB": "11/12/2000",
+    "domain": "fintech",
+    "email": "VaraPrasad@gmail.com",
+    "activelySeeking":"yes",
+    "first name": "Vara",
+    "job status": "not employed",
+    "last name": "Prasad",
+    "phone": "+91 9160981890",
+    "gender" : "male",
+    "country": "India",
+    "company":"DLF Constructions",
+    "city" : "Chennai",
+    "skillShare":{
+    	"interested":["German","Python"],
+    	"offering":["English","JavaScript"]
+    },
+    "cv":{
+    	"jobPosition":"Front-end developer",
+    	"skills":["JavaScript","Typescript","HTML"]
+    },
+    "jobsApplied":["60c7d779066767239be146eb","60c7d779066767239be146e7"],
+    "friends":["60c7d2a4066767239be146e4"] 
+   },
+    {
+    "DOB": "11/12/2000",
+    "domain": "fintech",
+    "email": "RamCharan@gmail.com",
+    "activelySeeking":"yes",
+    "first name": "Ram",
+    "job status": "not employed",
+    "last name": "Charan",
+    "phone": "+91 9000981890",
+    "gender" : "male",
+    "country": "India",
+    "company":"DLF Constructions",
+    "city" : "Chennai",
+    "skillShare":{
+    	"interested":["German","Python"],
+    	"offering":["English","JavaScript"]
+    },
+    "cv":{
+    	"jobPosition":"Front-end developer",
+    	"skills":["JavaScript","Typescript","HTML"]
+    },
+    "jobsApplied":["60c7d779066767239be146eb","60c7d779066767239be146e7"],
+    "friends":["60c7d2a4066767239be146e4"]  
+   },
+   {
+    "DOB": "11/12/2000",
+    "domain": "fintech",
+    "email": "samantha@gmail.com",
+    "activelySeeking":"yes",
+    "first name": "Samantha",
+    "job status": "not employed",
+    "last name": "Prabhu",
+    "phone": "+91 9000981890",
+    "gender" : "female",
+    "country": "India",
+    "company":"DLF Constructions",
+    "city" : "Chennai",
+    "skillShare":{
+    	"interested":["German","Python"],
+    	"offering":["English","JavaScript"]
+    },
+    "cv":{
+    	"jobPosition":"Front-end developer",
+    	"skills":["JavaScript","Typescript","HTML"]
+    },
+    "jobsApplied":["60c7d779066767239be146eb","60c7d779066767239be146e7"],
+    "friends":["60c7d2a4066767239be146e4"] 
+   },
+    {
+    "DOB": "11/12/1999",
+    "domain": "fintech",
+    "email": "Kishan@gmail.com",
+    "activelySeeking":"yes",
+    "first name": "Kishan",
+    "job status": "not employed",
+    "last name": "Prabhu",
+    "phone": "+91 9000981890",
+    "gender" : "male",
+    "country": "India",
+    "company":"DLF Constructions",
+    "city" : "Chennai",
+    "skillShare":{
+    	"interested":["German","Python"],
+    	"offering":["English","JavaScript"]
+    },
+    "cv":{
+    	"jobPosition":"Front-end developer",
+    	"skills":["JavaScript","Typescript","HTML"]
+    },
+    "jobsApplied":["60c7d779066767239be146eb","60c7d779066767239be146e7"],
+    "friends":["60c7d2a4066767239be146e4"] 
+   },
+   {
+    "DOB": "11/12/1999",
+    "domain": "healthcare",
+    "email": "prabhu@gmail.com",
+    "activelySeeking":"yes",
+    "first name": "Prabhu",
+    "job status": "not employed",
+    "last name": "Bhusan",
+    "phone": "+91 9000981890",
+    "gender" : "male",
+    "country": "India",
+    "company":"DLF Constructions",
+    "city" : "Chennai",
+    "skillShare":{
+    	"interested":["German","Python"],
+    	"offering":["English","JavaScript"]
+    },
+    "cv":{
+    	"jobPosition":"Front-end developer",
+    	"skills":["JavaScript","Typescript","HTML"]
+    },
+   "jobsApplied":["60c7d779066767239be146eb","60c7d779066767239be146e7"],
+    "friends":["60c7d2a4066767239be146e4"] 
+   },
+   {
+    "DOB": "11/12/1999",
+    "domain": "healthcare",
+    "email": "Kishan@gmail.com",
+    "activelySeeking":"yes",
+    "first name": "Sandhya",
+    "job status": "employed",
+    "last name": "Vindhya",
+    "phone": "+91 9000981890",
+    "gender" : "female",
+    "country": "India",
+    "company":"DLF Constructions",
+    "city" : "Chennai",
+    "skillShare":{
+    	"interested":["German","Python"],
+    	"offering":["English","JavaScript"]
+    },
+    "cv":{
+    	"jobPosition":"Front-end developer",
+    	"skills":["JavaScript","Typescript","HTML"]
+    },
+    "jobsApplied":["60c7d779066767239be146eb","60c7d779066767239be146e7"],
+    "friends":["60c7d2a4066767239be146e4"] 
+   },
+   {
+    "DOB": "11/12/1989",
+    "domain": "healthcare",
+    "email": "Ravi@gmail.com",
+    "activelySeeking":"yes",
+    "first name": "Ravi",
+    "job status": "not employed",
+    "last name": "Kanth",
+    "phone": "+91 9000981890",
+    "gender" : "male",
+    "country": "India",
+    "company":"DLF Constructions",
+    "city" : "Chennai",
+    "skillShare":{
+    	"interested":["German","Python"],
+    	"offering":["English","JavaScript"]
+    },
+    "cv":{
+    	"jobPosition":"Front-end developer",
+    	"skills":["JavaScript","Typescript","HTML"]
+    },
+    "jobsApplied":["60c7d779066767239be146eb","60c7d779066767239be146e7"],
+    "friends":["60c7d2a4066767239be146e4"] 
+   },
+]

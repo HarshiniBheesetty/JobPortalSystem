@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "60cbb5a28ec3949f5e02af70"
+  },
+  "name": "SAP SE",
+  "employees": [
+    "60c7d2a4066767239be146e4",
+    "60cbb2e88ec3949f5e02af6e"
+  ],
+  "location": "Bangalore"
+},{
+  "_id": {
+    "$oid": "60cbb5a28ec3949f5e02af71"
+  },
+  "name": "Google",
+  "employees": [
+    "60c7d2a4066767239be146db",
+    "60cbb2e88ec3949f5e02af6f"
+  ],
+  "location": "Hyderabad"
+}]

@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "60cbb2e88ec3949f5e02af6e"
+  },
+  "name": "sateesh",
+  "email": "sateesh@sap.com",
+  "company": "SAP SE",
+  "jobsPosted": [
+    "60c7d779066767239be146eb",
+    "60c7d779066767239be146e7"
+  ]
+},{
+  "_id": {
+    "$oid": "60cbb2e88ec3949f5e02af6f"
+  },
+  "name": "Rakesh",
+  "email": "Rakesh@google.in",
+  "company": "Google",
+  "jobsPosted": [
+    "60c7d779066767239be146eb",
+    "60c7d779066767239be146e7"
+  ]
+}]
